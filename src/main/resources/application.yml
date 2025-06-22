@@ -4,8 +4,8 @@ server:
 spring:
   datasource:
     driver-class-name: org.postgresql.Driver
-    username: postgres
-    password: root
+    username: 
+    password: 
     url: jdbc:postgresql://localhost:5432/odakiralamadb
   jpa:
     show-sql: false
